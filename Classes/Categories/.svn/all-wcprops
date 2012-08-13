@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/Categories
+END
+NSURL+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/Categories/NSURL+Base.h
+END
+NSMutableURLRequest+Parameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/Categories/NSMutableURLRequest+Parameters.m
+END
+NSString+URLEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/Categories/NSString+URLEncoding.h
+END
+NSURL+Base.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/Categories/NSURL+Base.m
+END
+NSString+URLEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/Categories/NSString+URLEncoding.m
+END
+NSMutableURLRequest+Parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/Categories/NSMutableURLRequest+Parameters.h
+END

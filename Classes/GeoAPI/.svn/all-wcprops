@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI
+END
+GAPlace.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI/GAPlace.h
+END
+GAParent.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI/GAParent.h
+END
+GAPlace.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI/GAPlace.m
+END
+GAConnectionDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI/GAConnectionDelegate.h
+END
+GAConnectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI/GAConnectionManager.h
+END
+GAParent.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI/GAParent.m
+END
+GAConnectionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/GeoAPI/GAConnectionManager.m
+END

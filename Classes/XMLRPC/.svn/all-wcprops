@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mizoon/!svn/ver/51/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC
+END
+XMLRPCResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCResponse.m
+END
+XMLRPCConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCConnection.m
+END
+XMLRPCEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCEncoder.m
+END
+XMLRPCExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCExtensions.m
+END
+XMLRPCDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCDecoder.h
+END
+XMLRPCRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCRequest.h
+END
+XMLRPCDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mizoon/!svn/ver/51/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCDecoder.m
+END
+XMLRPCRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCRequest.m
+END
+XMLValueDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLValueDecoder.h
+END
+XMLRPCResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCResponse.h
+END
+XMLRPCConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCConnection.h
+END
+XMLRPCEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCEncoder.h
+END
+XMLRPCExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mizoon/!svn/ver/41/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLRPCExtensions.h
+END
+XMLValueDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mizoon/!svn/ver/51/iphoneApp/Mizoon/trunk/Mizoon/Classes/XMLRPC/XMLValueDecoder.m
+END
